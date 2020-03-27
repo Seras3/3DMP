@@ -1,7 +1,7 @@
 # 1) Pixel art & vases:
  
-* [2D pixel art shape](#vase-body-from-scatch). 
-* Vase body from scatch. 
+* [2D pixel art shape](#2d-pixel-art-shape). 
+* [Vase body from scatch](#vase-body-from-scatch). 
 * Another vase modifying first scatch. 
 <br><br><br>
 ## 2D pixel art shape.
