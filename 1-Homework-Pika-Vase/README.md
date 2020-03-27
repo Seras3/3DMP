@@ -11,7 +11,7 @@ I started with a simple search on Google :
 I found some interesting anime faces :octocat: but way too complex for what I was supposed to do. I thought a simple pikachu head would be a good start, so here it is:
 <br>
 
-![Pika head](pik-head.jpg)
+![Pika head](pik.jpg)
 <br>
 And that's how it looks after performing some "editing skills".
 <br>
