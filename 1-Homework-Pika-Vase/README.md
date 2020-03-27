@@ -13,12 +13,11 @@ I found some interesting anime faces :octocat: but way too complex for what I wa
 
 ![Pika head](pik.jpg)
 <br>
-And that's how it looks after performing some editing skills.
+And that's how it looks after performing some "editing skills".
 <br>
 
 ![Pika head sliced](Pik-sliced.jpg)
 
 ## Vase body from scatch.
 I can't lie to you, I thought it will be a difficult task :worried:. Then I realised that I know some math tricks :sunglasses:. <br>
-I used [Solid of revolution](https://en.wikipedia.org/wiki/Solid_of_revolution) technique. <br>
-At least I was prepared to, until I saw the "REVOLVE" button that made my life easier :heart:.
+I used [Solid of revolution](https://en.wikipedia.org/wiki/Solid_of_revolution) technique. At least I was prepared to, until I saw the "REVOLVE" button that made my life easier :heart:.
