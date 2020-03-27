@@ -1,7 +1,7 @@
 # 2) Improvements & pieces:
  
 * [Area 51](#area-51-alien):alien: 
-* [Vase body from scatch](#vase-body-from-scatch). 
+* [Pieces](#pieces). 
 <br><br><br>
 ## Area 51 :alien:
 I started with a simple search on Thingiverse : 
