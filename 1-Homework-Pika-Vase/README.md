@@ -22,5 +22,18 @@ And that's how it looks after performing some "editing skills".
 I can't lie to you, I thought it will be a difficult task :worried:. Then I realised that I know some math tricks :sunglasses:. <br>
 I used [Solid of revolution](https://en.wikipedia.org/wiki/Solid_of_revolution) technique. At least I was prepared to, until I saw the "REVOLVE" button that made my life easier :heart:. <br><br>
 
+![Vase 1 f360](Vase-1-f360.JPG)
 
 ## Another vase modifying first scatch.
+Second vase was almost the same thing, but only dragging skills required.<br><br>
+
+![Vase 2 f360](Vase-2-f360.JPG)
+
+### Bonus part : " A closer look in Prusa Slicer "
+Front view: <br>
+
+![Both front](Vase-Front.jpg)
+
+Top view: <br>
+
+![Both top](Vase-Top.jpg)
