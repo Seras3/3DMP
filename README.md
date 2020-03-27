@@ -7,4 +7,4 @@
 
 ### Homeworks flow:
    1. [Pixel art & vases](https://github.com/Seras3/3DMP/tree/master/1-Homework-Pika-Vase)
-   1. [Improvements & pieces]
+   1. [Improvements & pieces](https://github.com/Seras3/3DMP/tree/master/2-Homework-Improvements)
