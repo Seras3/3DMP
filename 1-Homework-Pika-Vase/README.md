@@ -8,7 +8,7 @@
 I started with a simple search on Google : 
 > "2D characters pixel art"
 <br>
-I found some interesting anime faces but way too complex for what I was suposed to do. I thought a simple pikachu head would be a good start, so here it is:
+I found some interesting anime faces but way too complex for what I was supposed to do. I thought a simple pikachu head would be a good start, so here it is:
 <br>
 
 ![Pika head](pik.jpg)
