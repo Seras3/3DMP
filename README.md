@@ -3,7 +3,7 @@
 
 ## Software required:
    * [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) for modeling.
-   * [Prusa Slicer](https://www.prusa3d.com/prusaslicer) for export files.
+   * [Prusa Slicer](https://www.prusa3d.com/prusaslicer) for exporting files.
 
 ### Homeworks flow:
    1. [Pixel art & vases](https://github.com/Seras3/3DMP/tree/master/1-Homework-Pika-Vase)
