@@ -10,8 +10,10 @@ I started with a simple search on Google :
 <br>
 I found some interesting anime faces but way too complex for what I was suposed to do. I thought a simple pikachu head would be a good start, so here it is:
 <br>
-![Pika head](/1-Homework-Pika-Vase/pik.jpg)
+
+![Pika head](pik.jpg)
 <br>
 And that's how it looks after performing some editing skills.
 <br>
-![Pika head sliced](/1-Homework-Pika-Vase/Pik-sliced.jpg)
+
+![Pika head sliced](Pik-sliced.jpg)
