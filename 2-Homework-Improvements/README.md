@@ -12,13 +12,13 @@ All worked as I expected and I end up with this little blind creature:
 Front view: 
 <br>
 
-![Alien front](2-Homework-Improvements/Alien-head-front.JPG)
+![Alien front](Alien-head-front.JPG)
 
 <br>
 Side view:
 <br>
 
-![Alien side](2-Homework-Improvements/Alien-head-side.JPG)
+![Alien side](Alien-head-side.JPG)
 
 <br>
 I thought it would be horrible to let him like a mole and I improved his vision.
@@ -26,10 +26,10 @@ I thought it would be horrible to let him like a mole and I improved his vision.
 Front view: 
 <br>
 
-![Alien front](2-Homework-Improvements/Aliens-front.JPG)
+![Alien front](Aliens-front.JPG)
 
 <br>
 Side view:
 <br>
 
-![Alien side](2-Homework-Improvements/Aliens-side.JPG)
+![Alien side](Aliens-side.JPG)
