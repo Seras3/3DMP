@@ -40,18 +40,17 @@ I reproduced these pieces from the blueprint: <br>
 
 ![A1](Images/A1.png) <br>
 
-![A2](Images/A2.jpg) <br>
-
-![A3](Images/A3.jpg) <br>
-
-![A4](Images/A4.jpg) <br>
-
-These are scatches made in Fusion360: <br>
-
 ![SK1](Images/SK1.JPG) <br>
+
+![A2](Images/A2.jpg) <br>
 
 ![SK2](Images/SK2.JPG) <br>
 
+![A3](Images/A3.jpg) <br>
+
 ![SK3](Images/SK3.JPG) <br>
 
+![A4](Images/A4.jpg) <br>
+
 ![SK4](Images/SK4.JPG) <br>
+
