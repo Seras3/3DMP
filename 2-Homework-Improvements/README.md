@@ -54,3 +54,6 @@ I reproduced these pieces from the blueprint: <br>
 
 ![SK4](Images/SK4.JPG) <br>
 
+And that's how they all look in Prusa Slicer : <br>
+
+![Pieces](Images/Pieces-Sliced.JPG)
