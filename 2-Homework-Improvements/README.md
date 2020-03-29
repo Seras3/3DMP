@@ -48,10 +48,10 @@ I reproduced these pieces from the blueprint: <br>
 
 These are scatches made in Fusion360: <br>
 
-![SK1](Images/SK1.jpg) <br>
+![SK1](Images/SK1.JPG) <br>
 
-![SK2](Images/SK2.jpg) <br>
+![SK2](Images/SK2.JPG) <br>
 
-![SK3](Images/SK3.jpg) <br>
+![SK3](Images/SK3.JPG) <br>
 
-![SK4](Images/SK4.jpg) <br>
+![SK4](Images/SK4.JPG) <br>
