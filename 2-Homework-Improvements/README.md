@@ -33,3 +33,6 @@ Side view:
 <br>
 
 ![Alien side](Images/Aliens-side.JPG)
+
+<br><br>
+## Pieces :triangular_ruler:
