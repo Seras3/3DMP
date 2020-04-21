@@ -2,4 +2,4 @@
 
 ## Here's the masterpiece 
 
-![Column](images/Twisted column.png)
+![Column](images/Twisted%20column%20.png)
