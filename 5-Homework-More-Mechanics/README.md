@@ -8,3 +8,7 @@ This time I spent some time trying to understand how gears works, but suddenly I
 Check this out :
 
 ![roller](images/Roller.png)
+
+Motion right here:
+
+![move](images/motion.gif)
