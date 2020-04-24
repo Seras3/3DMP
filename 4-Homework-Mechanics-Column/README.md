@@ -10,4 +10,8 @@ So here are the mechanics you are looking for :
 
 ![mech-1](images/Scotch.JPG)
 
+![move-1](images/motion-1.gif)
+
 ![mech-2](images/Slider.JPG)
+
+![move-2](images/motion-2.gif)
