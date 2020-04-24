@@ -1,4 +1,4 @@
-# 4) Mechanics & column **
+# 4) Mechanics & column 
 
 ## I saw you're pretty procrastinating, so grab some motion from here ! :rocket:
 
