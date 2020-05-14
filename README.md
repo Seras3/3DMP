@@ -11,3 +11,4 @@
    1. [Chess time](https://github.com/Seras3/3DMP/tree/master/3-Homework-Chess-time) 
    1. [Mechanics & columns](https://github.com/Seras3/3DMP/tree/master/4-Homework-Mechanics-Column)
    1. [More mechanics](https://github.com/Seras3/3DMP/tree/master/5-Homework-More-Mechanics)
+   1. [FINAL PROJECT](https://github.com/Seras3/3DMP/tree/master/Final-project)
