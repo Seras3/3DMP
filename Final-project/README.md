@@ -2,8 +2,8 @@
 
 * [Background info](#zoom-in-clock-history-rewind)
 * [Functional parts](#key-components-key)
-* [Model roadmap](#) 
-* [Final result](#)
+* [Model roadmap](#things-to-have-in-mind-before-start) 
+* [Final result](#motto---cant-say-you-like-it-until-you-want-to-bite-it--lollipop)
 
 # Zoom in clock history :rewind:	
 
