@@ -54,7 +54,7 @@ If you are interested in quick modelling, in first place you should google for a
 Internet is full of cool stuff and you could find almost every thing you want by simply typing it.
 I'll let here the [inspirational link](https://www.thingiverse.com/thing:3364860) for this project and I'll explain how I build it piece by piece.
 
-First of all I downloaded the entire model and I analized it. I was overwhelmed by its complexity and that made me ask myself about a new way of designing canvases. That was funny because I thought it was only one .pdf file , that means almost 20 pieces including screws, but short time after, I realised that 3 more .pdf files were waiting for me. Well that boosted my survival skill and I tried to find a smart way to solve this mass of canvases. 
+First of all I downloaded the entire model and I analized it. I was overwhelmed by its complexity and that made me ask myself about a new way of designing canvases. That was funny because I thought it was only one .pdf file , that means almost 20 pieces including screws, but short time after, I realised that 3 more .pdf files were waiting for me. Well that boosted my survival sense and I tried to find a smart way to solve this mass of canvases. 
 
 After a long adventure on the internet I found an obscure site with an older version of some kind of tool that helps with getting dimensions out of STL files and it is called Netfabb. You can download it from [here](https://github.com/3DprintFIT/netfabb-basic-download/releases).
 
