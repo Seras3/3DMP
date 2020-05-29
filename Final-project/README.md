@@ -1,7 +1,7 @@
 # 6) Final project :clock9:
 
-* [Background info](#zoom-in-clock-history)
-* [Functional parts](#key-components)
+* [Background info](#zoom-in-clock-history-rewind)
+* [Functional parts](#key-components-key)
 * [Model roadmap](#) 
 * [Final result](#)
 
@@ -11,11 +11,11 @@ Devices for measuring and displaying time have started their life over 5500 year
 
 # Key components :key:
 
-* [Power source](#power-source)
-* [Oscillator](#oscillator)
-* [Controller](#controller) 
-* [Counter chain](#counter-chain)
-* [Indicator](#indicator)
+* [Power source](#power-source-fire)
+* [Oscillator](#oscillator-balance_scale)
+* [Controller](#controller-joystick) 
+* [Counter chain](#counter-chain-slot_machine)
+* [Indicator](#indicator-watch)
 
 ## Power source :fire:
 
