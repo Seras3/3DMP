@@ -1,5 +1,5 @@
 # 3DMP
-## Here is the 3D Model Printing repo where you can find all my homeworks and materials ( beginner level ).
+## Here is the 3D Model Printing repo where you can find all my homeworks and materials.
 
 ## Software required:
    * [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) for modeling.
